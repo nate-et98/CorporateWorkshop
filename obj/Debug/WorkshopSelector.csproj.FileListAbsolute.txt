@@ -1,0 +1,10 @@
+C:\Users\natha\Desktop\C#\WorkshopSelector\bin\Debug\WorkshopSelector.exe.config
+C:\Users\natha\Desktop\C#\WorkshopSelector\bin\Debug\WorkshopSelector.exe
+C:\Users\natha\Desktop\C#\WorkshopSelector\bin\Debug\WorkshopSelector.pdb
+C:\Users\natha\Desktop\C#\WorkshopSelector\obj\Debug\WorkshopSelector.csproj.AssemblyReference.cache
+C:\Users\natha\Desktop\C#\WorkshopSelector\obj\Debug\WorkshopSelector.Form1.resources
+C:\Users\natha\Desktop\C#\WorkshopSelector\obj\Debug\WorkshopSelector.Properties.Resources.resources
+C:\Users\natha\Desktop\C#\WorkshopSelector\obj\Debug\WorkshopSelector.csproj.GenerateResource.cache
+C:\Users\natha\Desktop\C#\WorkshopSelector\obj\Debug\WorkshopSelector.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\C#\WorkshopSelector\obj\Debug\WorkshopSelector.exe
+C:\Users\natha\Desktop\C#\WorkshopSelector\obj\Debug\WorkshopSelector.pdb
